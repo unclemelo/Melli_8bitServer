@@ -1,0 +1,13 @@
+discord
+quart
+quart_discord
+colorama
+python-dotenv
+pytz
+requests
+aiohttp
+psutil
+httpx
+fastapi
+uvicorn
+asyncio

@@ -1,0 +1,5 @@
+.env
+data/
+venv/
+util/__pycache__
+cogs/__pycache__
